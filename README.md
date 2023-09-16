@@ -1,5 +1,5 @@
 # Scripts
-An assortment of bash scripts to perform random tasks and be examples of scripting
+An assortment of scripts to perform random tasks and be examples of scripting
 
 ## Bash
 ### downloadLatestChromeForTestBinaries.sh
